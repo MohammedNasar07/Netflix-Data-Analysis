@@ -1,12 +1,16 @@
+
 # Netflix Data Analysis Project
+
 
 ## Overview
 
 This project analyzes Netflix shows and movies data using SQL and visualizes the findings using Tableau.
 
+
 ## Data Sources
 
 Data was sourced from Kaggle Netflix dataset.
+
 
 ## Tableau Dashboard
 
@@ -19,9 +23,11 @@ The Tableau dashboard provides visual insights into the Netflix dataset, highlig
 
 The SQL analysis includes queries to identify top-rated shows, analyze genres, and more.
 
+
 -- Analysis of top-rated Netflix shows
 
 SELECT * FROM shows WHERE rating = 'top-rated';
+
 
 -- Analysis of Netflix content by genre
 
