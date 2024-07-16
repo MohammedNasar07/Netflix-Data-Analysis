@@ -19,3 +19,6 @@ The Tableau dashboard provides visual insights into the Netflix dataset, highlig
 
 The SQL analysis includes queries to identify top-rated shows, analyze genres, and more.
 
+-- Analysis of top-rated Netflix shows
+
+
