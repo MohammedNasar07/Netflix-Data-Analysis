@@ -15,3 +15,6 @@ The Tableau dashboard provides visual insights into the Netflix dataset, highlig
 ![Netflix Dashboard](dashboard/Netflix%20Dashboard%20(Tableau).png)
 
 ## SQL Analysis
+
+The SQL analysis includes queries to identify top-rated shows, analyze genres, and more.
+
