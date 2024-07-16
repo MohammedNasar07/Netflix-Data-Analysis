@@ -25,5 +25,6 @@ SELECT * FROM shows WHERE rating = 'top-rated';
 
 -- Analysis of Netflix content by genre
 
+SELECT genre, COUNT(*) FROM shows GROUP BY genre;
 
 
