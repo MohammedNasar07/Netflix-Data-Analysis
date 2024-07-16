@@ -8,3 +8,4 @@ This project analyzes Netflix shows and movies data using SQL and visualizes the
 
 Data was sourced from Kaggle Netflix dataset.
 
+## Tableau Dashboard
