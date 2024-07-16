@@ -21,4 +21,6 @@ The SQL analysis includes queries to identify top-rated shows, analyze genres, a
 
 -- Analysis of top-rated Netflix shows
 
+SELECT * FROM shows WHERE rating = 'top-rated';
+
 
