@@ -12,3 +12,5 @@ Data was sourced from Kaggle Netflix dataset.
 
 The Tableau dashboard provides visual insights into the Netflix dataset, highlighting top IMDB-rated shows and movies, production countries, and more.
 
+![Netflix Dashboard](dashboard/Netflix%20Dashboard%20(Tableau).png)
+
